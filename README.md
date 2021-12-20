@@ -5,4 +5,4 @@ The files in this repository belong to the MSc Thesis of Seppe Lampe under super
 
 Some of the files have references to files/folders stored on Hydra, the HPC cluster of VUB and ULB.
 
-The manuscirpt of my MSc thesis is in 'MA_ACS_Lampe_Seppe_S2_August_2021_links_hidden.pdf'
+The manuscript of my MSc thesis is in 'MA_ACS_Lampe_Seppe_S2_August_2021_links_hidden.pdf'
