@@ -4,7 +4,7 @@
 
 Welcome! 
 
-Here you can find the scripts that I wrote for my MSc thesis in Applied Sciences & Engineering: Applied Computer Science at Vrije Universiteit Brussel. I performed this MSc thesis under supervision of Prof. Dr. Wim Thiery and with help of my daily supervisor Inne Vanderkelen. The files have references to files/folders stored on Hydra, the HPC cluster of VUB and ULB. The manuscript of my MSc thesis can be found [here](MA_ACS_Lampe_Seppe_S2_August_2021_links_hidden.pdf).
+Here you can find the scripts that I wrote for my MSc thesis in Applied Sciences & Engineering: Applied Computer Science at Vrije Universiteit Brussel. I performed this MSc thesis under supervision of Prof. Dr. Wim Thiery and with help of my daily supervisor Inne Vanderkelen. The files have references to files/folders stored on Hydra, the HPC cluster of VUB and ULB. The manuscript of my MSc thesis can be found [here](https://github.com/SeppeLampe/MSc-Thesis/blob/27069f584e1817833c080e9cc2bb9a99e2ef4c95/Manuscript.pdf).
 
 In this project, we predict nightly thunderstorms over Lake Victoria from a satellite-derived product using machine and deep learning. As a proxy for thunderstorm activity we obtained the 'Overshooting Top' (OT) dataset designed by NASA's Langley Research Center, which is derived from the SEVIRI satellite product.
 
@@ -54,7 +54,7 @@ We predict the 1% most storm-intense nights with a hit rate of 85% and a false a
 
 ## Further Reading
 
-If you are interested in this topic, feel free to read (parts of) my [MSc thesis](MA_ACS_Lampe_Seppe_S2_August_2021_links_hidden.pdf).
+If you are interested in this topic, feel free to read (parts of) my [MSc thesis](https://github.com/SeppeLampe/MSc-Thesis/blob/27069f584e1817833c080e9cc2bb9a99e2ef4c95/Manuscript.pdf).
 
 Have a nice day!
 
