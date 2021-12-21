@@ -51,3 +51,11 @@ We predict the 1% most storm-intense nights with a hit rate of 85% and a false a
     <a href="https://github.com/SeppeLampe/MSc-Thesis/blob/main/Trainer.py">This script</a> determines the Trainer, which handles communication between the Dataloader, CNN and Classifier objects.
 </details>
 
+
+## Further Reading
+
+If you are interested in this topic, feel free to read (parts of) my [MSc thesis](MA_ACS_Lampe_Seppe_S2_August_2021_links_hidden.pdf).
+
+Have a nice day!
+
+
